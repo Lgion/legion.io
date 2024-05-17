@@ -3,10 +3,16 @@
 	url = git@github.com:Lgion/juusho.net.git
 [submodule "_/legion"]
 	path = _/legion
-	url = https://github.com/Lgion/legion.net
+	url = git@github.com:Lgion/legion.net.git
 [submodule "_/synergie"]
 	path = _/synergie
 	url = git@github.com:Lgion/synergie.net.git
 [submodule "_/youSave"]
 	path = _/youSave
-	url = https://github.com/Lgion/youSave.net
+	url = git@github.com:Lgion/youSave.net.git
+[submodule "_/became"]
+	path = _/became
+	url = git@github.com:Lgion/WEBPROJECT___became.git
+[submodule "_/jctv"]
+	path = _/jctv
+	url = git@github.com:Lgion/WEBPROJECT___jctv.git
