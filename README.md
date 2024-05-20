@@ -1,6 +1,29 @@
 # legion.io
 A social network for democracy, universel revenue and more..
 
+
+# SCENARIO SPEECH
+## FAIT: 
+### INFORMATIQUE === (R)ÉVOLUTION
+L'informatique révolution la société, et est à l'origine de la révolution de l'information, et celle actuelle de l'intelligence.
+## PROBLÈMES: 
+### CHAOS TECHNOLOGIQUE CONTEMPORAIN
+#### PROBLÈMES GLOBALES:
+- notre rapport à la consommation est dévastateur sur la faune et la flore, sur le système climatique, et sur notre propre psyché collective et individuelles
+- tous nos actes sont motivés par la peur: lorem
+#### PROBLÈMES LIBERTICIDES:
+beaucoup de problèmes
+- addiction malverse pluriel, différente sur toutes les génération, des bébés aux retraités, en passant par les ados et les personnes actives: déconcentration, etc...
+- cette technologie n'aide en rien ni la démocratie ni les idéaux de tout temps confondu, encore moins les utopies qu'ont conceptialisés nos ailleux, impossibles naguère, et qui voient leurs champs des possibles s'ouvrir à mesure que nous évolions dans ces 3eme et 4eme révolutions de notre civilisation.
+L'orientation qu'empreinte cette technologie est donc mauvaise, il faut la rectifier, la redéfinir. Surtout les réseaux-sociaux, et tout ce qui concerne le divertissement chronophage sur écran, qui est en somme tout le côté néfaste omniprésent aujourd'hui sur les écrans, rien d'éducatif ou de non-mercantile && pro-philantrope.
+## PROPOSITIONS DE SOLUTION: 
+### LEGION, UNE RUCHE DE PROJETS WEB ULTRA-INCLUSIVES
+Un réseau social chapoté par une galaxie d'application web exclusivements orientés sur l'humain et ses besoins primaire en priorité mais besoins global aussi (donc tout types de besoins y compris le divertissement y sera compris.... dans jeu de mots).
+- individuel
+- groupe
+## EXEMPLES && MISE EN PRATIQUE/APPLICATION: 
+
+
 LEGION est à la fois le nom d'un réseau social, mais aussi le nom d'une ruche de projets web au fonctionnement singulier.
 
 ## BESOINS INDIVIDUELLES ET COLLECTIFS À SÉCURISER POUR L'ÉMANCIPATION GÉNÉRALE
@@ -18,6 +41,8 @@ LEGION est à la fois le nom d'un réseau social, mais aussi le nom d'une ruche 
 11. Recherche&Développement
 12. enseignements/mentorat
 13. guide spirituel
+
+## LES RAISONS POUR LESQUELLES IL Y AURA ADHÉSION
 
 
 ## LISTE DES PROJETS
@@ -84,6 +109,7 @@ Il s'agit donc d'une zone commerciale comme on serait famillier de le voir dans 
 
 
 ## LE FINANCEMENT PARTICIPATIF
+
 J'en tairais le nom, mais l'instigateur de ce mouvement, part du constat très simple: le monde est dans un piteux état, il est gangréné par la corruption et de fausses idéologies ancestrales.
 
 La solution qu'il en tira n'était pas plus compliqué: il faut tourner dos aux institutions de ce monde et créer une communauté qui donnera réèllement le pouvoir du choix à tous, grâce à une organisation solide moderne et avangardiste, basé sur l'émancipation individuelle et communautaire, somme toute en opposition directe et totale à la société contemporaine, individualiste et communautairement dépendante du concepte d'argent notamment. La communauté LEGION et ses technologies seront disruptives envers les entitées ciblées "dangereuses" (états-nations térroristes exclusivement tel qu'Israël par exemple, ou tous ses vassals occidentaux ex et neo pays coloniaux tel qu'entre autre les USA, la GB ou encore la France), sinon intrusives si ce n'est autoritaires envers le reste du monde.
