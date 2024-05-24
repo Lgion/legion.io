@@ -16,3 +16,15 @@
 [submodule "_/jctv"]
 	path = _/jctv
 	url = git@github.com:Lgion/WEBPROJECT___jctv.git
+[submodule "_/CJS"]
+	path = _/CJS
+	url = git@github.com:Lgion/CJS.git
+[submodule "_/___DEV/QUIZES"]
+	path = _/___DEV/QUIZES
+	url = git@github.com:Lgion/DEV___QUIZES.git
+[submodule "_/___CLIENTS/LPD"]
+	path = _/___CLIENTS/LPD
+	url = git@github.com:Lgion/PRODUCTION_pda_react.git
+[submodule "_/___CLIENTS/KYNOME"]
+	path = _/___CLIENTS/KYNOME
+	url = git@github.com:Lgion/CLIENTS___KYNOME.git

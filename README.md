@@ -2,7 +2,7 @@
 A social network for democracy, universel revenue and more..
 
 
-# SCENARIO SPEECH
+# SCENARIO SPEECH / FPS p&a
 ## FAIT: 
 ### INFORMATIQUE === (R)ÉVOLUTION
 L'informatique révolution la société, et est à l'origine de la révolution de l'information, et celle actuelle de l'intelligence.
